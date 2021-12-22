@@ -6,7 +6,7 @@ Hi! this project was carried out during the **Front Start** course. In order to 
 ### Learnings
 - **HTML** Semantic Tags.
 - **CSS Grid** and its parameters.
-- Position **Relative** and **Absolute**.
+- **CSS** Position **Relative** and **Absolute**.
 - **CSS** Parameters.
 - **JavaScript** Icons (FeatherIcons).
 
